@@ -11,7 +11,6 @@ public class FormulaCreator {
     }
 
     public void main(String[] args) {
-        // You can test your formula here if needed
         calculateFormula(a,b);
     }
 }
